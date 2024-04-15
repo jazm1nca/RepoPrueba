@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+
+h1{ background-color: rgb(179, 173, 123);}
+
+.rojo{
+    background-color: rgb(145, 46, 46);
+}
+
+.amarillo{ 
+    background-color: rgb(218, 203, 75);
+}
+
+.azul{
+    background-color: rgb(54, 54, 129);
+}
+
+.amarillo,.rojo,.azul{
+    display: inline-block;
+    width: 33% ;
+}
